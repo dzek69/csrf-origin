@@ -1,0 +1,10 @@
+{
+  "name": "csrf-origin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.1"
+  }
+}
